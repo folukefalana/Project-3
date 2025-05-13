@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-The "Titanic Survival Analytics" Power BI project was created to offer a comprehensive and visually engaging analysis of the factors that influenced passenger survival during the Titanic disaster. This project involved sourcing historical data and transforming it into meaningful insights through a series of interactive dashboards and visualizations.
+The ["Titanic Survival Analytics"](https://1drv.ms/u/c/53d9d0eaf14ddcbb/EZJ-NVL0ritDs2GiIG0h5TkB2B6fzr2lLYdZMckX6hzrkg?e=I3pc2B) Power BI project was created to offer a comprehensive and visually engaging analysis of the factors that influenced passenger survival during the Titanic disaster. This project involved sourcing historical data and transforming it into meaningful insights through a series of interactive dashboards and visualizations.
 The analysis focused on key aspects such as passenger demographics (age, gender, and family size), travel class, port of embarkation, and survival status. By exploring these variables, the dashboard enables users to uncover patterns and correlations that shed light on who was more likely to survive and why.
 
 ---
@@ -35,3 +35,5 @@ Dashboard and Visualizations:
 
 - Data Security: Implementation of role-based access controls to ensure that sensitive passenger information was only accessible to authorized personnel.
 The "Titanic Survival Analytics" Power BI project served as a valuable tool for historians, researchers, and enthusiasts to explore and understand patterns of survival among Titanic passengers based on various demographic factors. It provided insights into the distribution of passengers, survival rates, and allowed stakeholders to draw meaningful conclusions from the historical data.
+
+
