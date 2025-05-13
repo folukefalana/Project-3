@@ -34,6 +34,8 @@ Dashboard and Visualizations:
 - Interactive Reports: Reports that allowed users to interact with the data, filter information based on specific criteria, and drill down into detailed insights.
 
 - Data Security: Implementation of role-based access controls to ensure that sensitive passenger information was only accessible to authorized personnel.
+
 The "Titanic Survival Analytics" Power BI project served as a valuable tool for historians, researchers, and enthusiasts to explore and understand patterns of survival among Titanic passengers based on various demographic factors. It provided insights into the distribution of passengers, survival rates, and allowed stakeholders to draw meaningful conclusions from the historical data.
 
 
+![Titanic Data Visualization](https://github.com/user-attachments/assets/bb8c6c70-7280-4d33-b0c4-79fbf6f0eff6)
